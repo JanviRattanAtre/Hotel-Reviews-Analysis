@@ -1,7 +1,3 @@
-Here’s a **description** for the project "Hotel Reviews Analysis" that you can use for the `README.md`:
-
----
-
 # Hotel Reviews Analysis
 
 ## Overview
@@ -80,11 +76,3 @@ The project produces:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements or feature suggestions.
-
-## License
-
-[Specify license details here.]
-
----
-
-This description is generalized based on the project name and common goals in review analysis. Feel free to update it based on the exact implementation details of your repository!
