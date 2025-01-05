@@ -54,11 +54,7 @@ The project analyzes hotel review datasets, which may include:
      ```bash
      jupyter notebook
      ```
-     Then open the main analysis file (e.g., `hotel_reviews_analysis.ipynb`) and execute the cells sequentially.
-   - Alternatively, if a Python script is provided (e.g., `main.py`):
-     ```bash
-     python main.py
-     ```
+     Then open the main analysis file and execute the cells sequentially.
 
 ## Results
 
